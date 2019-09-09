@@ -1,0 +1,1 @@
+This is nearmint's first git project!
